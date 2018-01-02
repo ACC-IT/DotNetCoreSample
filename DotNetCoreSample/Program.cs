@@ -6,7 +6,7 @@ namespace DotNetCoreSample
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World from DotNetCore!");           
+            Console.WriteLine("Hello World from DotNetCore!!!");           
         }
     }
 }
