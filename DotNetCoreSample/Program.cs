@@ -8,6 +8,7 @@ namespace DotNetCoreSample
         {
             Console.WriteLine("Hello World from DotNetCore with different dockerfile!!!");  
             Console.WriteLine("Testing for cache with version!!!");
+            Console.WriteLine("Pushing latest and build version tag together!!!");
 
         }
     }
