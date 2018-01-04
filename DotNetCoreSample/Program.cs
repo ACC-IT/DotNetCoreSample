@@ -7,7 +7,7 @@ namespace DotNetCoreSample
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World from DotNetCore with different dockerfile!!!");  
-            Console.WriteLine("Testing for cache!!!");
+            Console.WriteLine("Testing for cache with version!!!");
 
         }
     }
